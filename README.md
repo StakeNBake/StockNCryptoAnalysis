@@ -1,4 +1,4 @@
-# Stock & Crypto Analysis
+# StockNCrypto Analysis
 Investment analysis of stocks and crypto based on ticker symbol with Telegram bot automation 📈
 
 This project works both locally and externally through Telegram Chat.
